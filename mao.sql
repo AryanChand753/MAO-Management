@@ -49,7 +49,7 @@ CREATE TABLE `competitions` (
   `show_forms` tinyint(1) NOT NULL DEFAULT 1,
   `show_bus` tinyint(1) NOT NULL DEFAULT 1,
   `show_room` tinyint(1) NOT NULL DEFAULT 1,
-  `hidden` tinyint(1) NOT NULL DEFAULT 0,
+  `hidden` tinyint(1) NOT NULL DEFAULT 0
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
 -- --------------------------------------------------------
