@@ -1,6 +1,4 @@
-1. Account
-     - Login.php L14: error message
-2. Admin
+1. Admin
      - accounts
        - delete.php L46: fix styling
        - famat.php L2: this
@@ -18,12 +16,12 @@
        - comp-checkoff.php L54: Although this is admin only, make more secure
        - comp-checkoff.php L89: make function
        - comp-checkoff.php L91: make not bad
-4. custom
+2. custom
      - update background.png
-7. docs
+3. docs
      - update DOCS
-9. img
-10. shared
+4. img
+5. shared
      - accounts.php L9: implement into codebase
      - accounts.php L273: comp info update (student and >=officer)
      - accounts.php L286: Rethink end of school year
@@ -34,11 +32,11 @@
      - sql.php L15: Lord, the <i>security</i>
      - transactions.php L3: implement into codebase
      - transactions.php L57: review
-12. student
+6. student
      - info.php L13: don't use $_POST['select-id']
      - info.php L77: This is bad and ugly and makes me want to cry. I hate my old code :(
      - transactions.php L130: fix
-14. favicon.ico
+7. favicon.ico
      - update icon
-16. index.php
+8. index.php
      - create a homepage
