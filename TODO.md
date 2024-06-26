@@ -1,6 +1,5 @@
 1. Admin
      - accounts
-       - delete.php L46: fix styling
        - famat.php L2: this
        - import-account.php L48: bad
      - bubbles
